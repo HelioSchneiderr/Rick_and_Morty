@@ -23,8 +23,8 @@ body{
     font-family: 'Press Start 2P', cursive;
     color: #63cbfb;
     font-size: 10px;
+    transition: 0.5s;
 };
-
 
 
 html {
